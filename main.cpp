@@ -1,4 +1,6 @@
 #include "PC_FileIO.c"
+//coded in RobotC
+
 const int MAX_SIZE = 500;
 float dot[MAX_SIZE][2];
 
